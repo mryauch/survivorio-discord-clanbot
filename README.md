@@ -1,1 +1,1 @@
-# survivorio_discord_clanbot
+# survivorio-discord-clanbot
